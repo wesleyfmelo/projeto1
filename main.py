@@ -1,1 +1,1 @@
-ptint('oi')
+ptint('oi 1')
